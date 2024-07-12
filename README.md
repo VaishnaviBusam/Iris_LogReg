@@ -1,5 +1,4 @@
-# MachineLearning
-This repository will contain projects on machine learning done by me.
+# Iris Flower Classification using Logistic Regression
 
 **Project Description:** To classify the Iris flowers into Iris-setosa, Iris-virginica, Iris-versicolor using the Kaggle dataset.
 **Algorithm used:** Logistic Regression
